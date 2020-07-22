@@ -1,10 +1,8 @@
 # EasyEG
 
-<img src="docs/manual/easyeg.png" alt="EasyEG" width=32.5% align="right" style="float:right; margin-left:10px">
+<img src="docs/manual/easyeg.png" alt="EasyEG" width=32.5% align="right">
 
 Brain-Computer Interfaces (BCIs) are progressively adopted by the consumer market, making them available for a variety of use-cases. However, off-the-shelf BCIs are limited in their adjustments towards individual head shapes, evaluation of scalp-electrode contact, and extension through additional sensors. This work presents __EasyEG__, a BCI headset that is adaptable to individual head shapes and offers adjustable electrode-scalp contact to improve measuring quality. __EasyEG__ consists of 3D-printed and low-cost components that can be extended by additional sensing hardware, hence expanding the application domain of current BCIs.
-
-<div style="clear:both"><br></div>
 
 ## Construction Manual
 
@@ -17,7 +15,6 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
 
 - 9 x [Head Plate](3d-printer_only/rails/head-plate.stl)
 
-<p></p>
 
 - [Front Rail](3d-printer_only/rails/rail_front.stl) and [Front Rail Threaded](3d-printer_only/rails/rail_front_threaded.stl)
 - 2 x [Top Rail](3d-printer_only/rails/rail_top.stl) and 2 x [Top Rail Threaded](3d-printer_only/rails/rail_top_threaded.stl)
@@ -25,13 +22,11 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
 - [Long Side Rail](3d-printer_only/rails/rail_side_long.stl) and [Long Side Rail Threaded](3d-printer_only/rails/rail_side_long_threaded.stl)
 - [Short Side Rail](3d-printer_only/rails/rail_side_short.stl) and [Short Side Rail Threaded](3d-printer_only/rails/rail_side_short_threaded.stl)
 
-<p></p>
 
 - 2 x [Main Clamp Top](3d-printer_only/clamps/main_clamp_top.stl) and 2 x [Main Clamp Bottom](3d-printer_only/clamps/main_clamp_bottom.stl)
 - [Clamp Top](3d-printer_only/clamps/clamp_top.stl) and [Clamp Bottom](3d-printer_only/clamps/clamp_bottom.stl) each 1 per electrode on the sides + 1 for the BCI Case
 - [Battery Clamp Top](3d-printer_only/clamps/battery_clamp_top.stl) and [Battery Clamp Bottom](3d-printer_only/clamps/battery_clamp_bottom.stl)
 
-<p></p>
 
 - one of each of the following for every electrode:
   - [Electrode Nut](3d-printer_only/electrode_mount/electrode_nut.stl)
