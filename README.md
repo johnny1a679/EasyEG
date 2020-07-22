@@ -72,13 +72,13 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
 - 4 self cutting flathead screws - 3.0 x 6.5mm for closing the bci case
 - foam or soft fabric to cushion the head plates
 
+
 ### Assemble the Rails
 <img src="docs/manual/rail_explode.png" alt="Rail assembly" width=32.5% style="float:right">
 
 assemble the Rails | direction
 
-<br/>
-
+<img width=100% height = 0>
 
 ![Rail assembly](docs/manual/rail_assembly.png)
 
@@ -86,7 +86,8 @@ assemble the Rails | direction
 
 make threads
 
-<p style="clear:both"></p>
+<img width=100% height = 0>
+
 
 ### Assemble the Clamps
 
@@ -96,21 +97,24 @@ make threads
 
 assamble the clamp
 
-<br/>
+<img width=100% height = 0>
 
 ![Clamp Assembly Bottom](docs/manual/clamp_bottom_assembly.png)
 
 ![Main Clamp Assembly](docs/manual/main_clamp_assembly.png)
 
+
 ### 3D-Printed Alternatives
 
 ![3D-Printed Alternatives](docs/manual/printed_alternatives.png)
+
 
 ### Electrode Mounts
 
 ![Electrode Attachment](docs/manual/electrode_attachment.png)
 
 ![Electrode Mount](docs/manual/electrode_mount.png)
+
 
 ### Assemble Accessory Mounts
 
@@ -125,7 +129,7 @@ assamble the clamp
 
 attach foam / fabric
 
-<br/>
+<img width=100% height = 0>
 
 ![Joining Rails](docs/manual/rail_joining.png)
 
