@@ -200,7 +200,7 @@ Following this steps, all needed electrodes and all short and long side rails ca
 
 ![Full Rail Assembly](docs/manual/final_assembling.png)
 
-After adding the BCI and Battery pack (again the same way as the other clamps), all is left to do is wiring.
+After adding the BCI and battery pack (again the same way as the other clamps), all is left to do is wiring.
 
 ### Your EasyEG Is Ready To Use!
 ![Fully Assembled EasyEG](docs/manual/easyeg_views.png)
