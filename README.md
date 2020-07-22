@@ -1,6 +1,6 @@
 # EasyEG
 
-<img src="docs/manual/easyeg.png" alt="EasyEG" width=32.5% style="float:right; margin-left:10px">
+<img src="docs/manual/easyeg.png" alt="EasyEG" width=32.5% align="right" style="float:right; margin-left:10px">
 
 Brain-Computer Interfaces (BCIs) are progressively adopted by the consumer market, making them available for a variety of use-cases. However, off-the-shelf BCIs are limited in their adjustments towards individual head shapes, evaluation of scalp-electrode contact, and extension through additional sensors. This work presents __EasyEG__, a BCI headset that is adaptable to individual head shapes and offers adjustable electrode-scalp contact to improve measuring quality. __EasyEG__ consists of 3D-printed and low-cost components that can be extended by additional sensing hardware, hence expanding the application domain of current BCIs.
 
