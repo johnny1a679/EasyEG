@@ -86,7 +86,7 @@ assemble the Rails | direction
 
 make threads
 
-<br/>
+<p style="clear:both"></p>
 
 ### Assemble the Clamps
 
