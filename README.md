@@ -74,19 +74,29 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
 
 ### Assemble the Rails
 <img src="docs/manual/rail_explode.png" alt="Rail assembly" width=32.5% style="float:right">
+
 assemble the Rails | direction
+
+<br/>
 
 
 ![Rail assembly](docs/manual/rail_assembly.png)
 
 <img src="docs/manual/rail_threading.png" alt="Tapping" width=66.25%  align="right">
-make a thread
+
+make threads
+
+<br/>
 
 ### Assemble the Clamps
 
 ![Clamp Assembly Top](docs/manual/clamp_top_assembly.png)
 
 <img src="docs/manual/clamp_top.png" alt="Clamp Top" width=32.5%  align="right">
+
+assamble the clamp
+
+<br/>
 
 ![Clamp Assembly Bottom](docs/manual/clamp_bottom_assembly.png)
 
@@ -112,12 +122,12 @@ make a thread
 ### Assemble the Helmet
 
 <img src="docs/manual/head_plate.png" alt="Head Plate" width=66.25%  align="right">
+
 attach foam / fabric
 
-![Joining Rails](docs/manual/rail_joining.png)
+<br/>
 
-<img src="docs/manual/screwing_stuff.png" alt="Screw and Nut" width=66.25%  align="right">
-print screws
+![Joining Rails](docs/manual/rail_joining.png)
 
 ![Attaching Main Clamp](docs/manual/clamp_attachment_1.png)
 
