@@ -38,9 +38,9 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
   - [Electrode Outer Screw Part 1](3d-printer_only/electrode_mount/electrode_outer_screw_part1.stl)
   - [Electrode Outer Screw Part 2](3d-printer_only/electrode_mount/electrode_outer_screw_part2.stl)
 
+<p></p>
 
-
-
+- BCI-Case [Top](3d-printer_only/bci-case_top.stl) and [Bottom](3d-printer_only/mounting_accessory/bci-case_bottom.stl)
 
 #### Produced parts with laser cutting
 
@@ -57,7 +57,7 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
     - [Electrode Inner Slider](lasercutter_and_3d-printer/3d-prints/electrode_mount/electrode_inner_slider.stl)
     - [Electrode Outer Screw Part 1](lasercutter_and_3d-printer/3d-prints/electrode_mount/electrode_outer_screw_part1.stl)
     - [Electrode Outer Screw Part 2](lasercutter_and_3d-printer/3d-prints/electrode_mount/electrode_outer_screw_part2.stl)
-  - BCI-Case [Top](lasercutter_and_3d-printer/3d-prints/bci-case_top.stl) and [bottom](lasercutter_and_3d-printer/3d-prints/bci-case_bottom.stl)
+  - BCI-Case [Top](lasercutter_and_3d-printer/3d-prints/bci-case_top.stl) and [Bottom](lasercutter_and_3d-printer/3d-prints/bci-case_bottom.stl)
   - [Battery Mount](lasercutter_and_3d-printer/3d-prints/battery_mount.stl)
   - 2 x [Electrode Nut](lasercutter_and_3d-printer/3d-prints/electrode_mount/electrode_nut.stl) for case and battery pack
   - 2 x [Electrode Screwcollet](lasercutter_and_3d-printer/3d-prints/electrode_mount/electrode_screwcollet.stl) for case and battery pack
