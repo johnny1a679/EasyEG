@@ -15,6 +15,7 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
 
 - 9 x [Head Plate](3d-printer_only/rails/head-plate.stl)
 
+<p></p>
 
 - [Front Rail](3d-printer_only/rails/rail_front.stl) and [Front Rail Threaded](3d-printer_only/rails/rail_front_threaded.stl)
 - 2 x [Top Rail](3d-printer_only/rails/rail_top.stl) and 2 x [Top Rail Threaded](3d-printer_only/rails/rail_top_threaded.stl)
@@ -22,11 +23,13 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
 - [Long Side Rail](3d-printer_only/rails/rail_side_long.stl) and [Long Side Rail Threaded](3d-printer_only/rails/rail_side_long_threaded.stl)
 - [Short Side Rail](3d-printer_only/rails/rail_side_short.stl) and [Short Side Rail Threaded](3d-printer_only/rails/rail_side_short_threaded.stl)
 
+<p></p>
 
 - 2 x [Main Clamp Top](3d-printer_only/clamps/main_clamp_top.stl) and 2 x [Main Clamp Bottom](3d-printer_only/clamps/main_clamp_bottom.stl)
 - [Clamp Top](3d-printer_only/clamps/clamp_top.stl) and [Clamp Bottom](3d-printer_only/clamps/clamp_bottom.stl) each 1 per electrode on the sides + 1 for the BCI Case
 - [Battery Clamp Top](3d-printer_only/clamps/battery_clamp_top.stl) and [Battery Clamp Bottom](3d-printer_only/clamps/battery_clamp_bottom.stl)
 
+<p></p>
 
 - one of each of the following for every electrode:
   - [Electrode Nut](3d-printer_only/electrode_mount/electrode_nut.stl)
@@ -76,17 +79,14 @@ assemble the Rails | direction
 
 ![Rail assembly](docs/manual/rail_assembly.png)
 
-<img src="docs/manual/rail_threading.png" alt="Tapping" width=66.25% style="float:right; margin-left:10px">
+<img src="docs/manual/rail_threading.png" alt="Tapping" width=66.25%  align="right">
 make a thread
-<div style="clear:both"><br></div>
-
 
 ### Assemble the Clamps
 
 ![Clamp Assembly Top](docs/manual/clamp_top_assembly.png)
 
-<img src="docs/manual/clamp_top.png" alt="Clamp Top" width=32.5% style="float:right; margin-left:10px">
-<div style="clear:both"><br></div>
+<img src="docs/manual/clamp_top.png" alt="Clamp Top" width=32.5%  align="right">
 
 ![Clamp Assembly Bottom](docs/manual/clamp_bottom_assembly.png)
 
@@ -111,15 +111,13 @@ make a thread
 
 ### Assemble the Helmet
 
-<img src="docs/manual/head_plate.png" alt="Head Plate" width=66.25% style="float:right; margin-left:10px">
+<img src="docs/manual/head_plate.png" alt="Head Plate" width=66.25%  align="right">
 attach foam / fabric
-<div style="clear:both"><br></div>
 
 ![Joining Rails](docs/manual/rail_joining.png)
 
-<img src="docs/manual/screwing_stuff.png" alt="Screw and Nut" width=66.25% style="float:right; margin-left:10px">
+<img src="docs/manual/screwing_stuff.png" alt="Screw and Nut" width=66.25%  align="right">
 print screws
-<div style="clear:both"><br></div>
 
 ![Attaching Main Clamp](docs/manual/clamp_attachment_1.png)
 
