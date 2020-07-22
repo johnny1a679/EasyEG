@@ -9,9 +9,9 @@ Brain-Computer Interfaces (BCIs) are progressively adopted by the consumer marke
 The following steps explain how to assamble your own __EasyEG__.
 You can produce the parts either by [3D-printing](3d-printer_only), or by combining [laser cutting and 3D-printing](lasercutter_and_3d-printer), if you have access to a laser cutter and an M4 tap.
 
-### Material List
+### List of Materials
 
-#### Produced parts with 3D-printing only
+#### Produced Parts With 3D-Printing Only
 
 - 9 x [Head Plate](3d-printer_only/rails/head-plate.stl)
 
@@ -42,7 +42,7 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
 
 - BCI-Case [Top](3d-printer_only/bci-case_top.stl) and [Bottom](3d-printer_only/mounting_accessory/bci-case_bottom.stl)
 
-#### Produced parts with laser cutting
+#### Produced Parts With Laser Cutting and 3D-Printing
 
 - Laser cut the following sheets from 4mm acrylic:
   - [Rails](lasercutter_and_3d-printer/lasercut/easyeg_lasercut_rails.svg)
@@ -52,7 +52,7 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
   - 4 x [Main Clamp Spacer](lasercutter_and_3d-printer/3d-prints/main_clamp_spacer.stl)
   - one of each of the following for every electrode:
     - [Electrode Nut](lasercutter_and_3d-printer/3d-prints/electrode_mount/electrode_nut.stl)
-    - [Electrode Screwcollet](lasercutter_and_3d-printer/3d-prints/electrode_mount/electrode_screwcollet.stl)
+    - [Electrode Screw Sleeve](lasercutter_and_3d-printer/3d-prints/electrode_mount/electrode_screwsleeve.stl)
     - [Electrode Mount](lasercutter_and_3d-printer/3d-prints/electrode_mount/electrode_mount.stl)
     - [Electrode Inner Slider](lasercutter_and_3d-printer/3d-prints/electrode_mount/electrode_inner_slider.stl)
     - [Electrode Outer Screw Part 1](lasercutter_and_3d-printer/3d-prints/electrode_mount/electrode_outer_screw_part1.stl)
@@ -76,7 +76,13 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
 ### Assemble the Rails
 <img src="docs/manual/rail_explode.png" alt="Rail assembly" width=32.5% style="float:right">
 
-assemble the Rails | direction
+To assemble a rail take the two parts of the rail and connect them with the rectangular dowels.
+They should have a good pressure fit and don't need glue.
+
+
+Pay attention on the direction of each rail and which side should accept the screws.
+This will later determine from which side you adjust the rails.
+
 
 <img width=100% height = 0>
 
@@ -84,8 +90,8 @@ assemble the Rails | direction
 
 <img src="docs/manual/rail_threading.png" alt="Tapping" width=66.25%  align="right">
 
-make threads
-
+The rails have two sizes of holes on their ends.
+The smaller holes have to be tapped with an M4 tap to later accept the screws.
 <img width=100% height = 0>
 
 
@@ -95,30 +101,60 @@ make threads
 
 <img src="docs/manual/clamp_top.png" alt="Clamp Top" width=32.5%  align="right">
 
-assamble the clamp
+The clamps have each a upper and a lower half and will hold the electrodes.
+To assemble the upper half insert the concave brakes and the guiding plates in the top Plate.
 
 <img width=100% height = 0>
 
+The lower half takes the convex brakes.
+Again, it should be a good pressure fit.
+
 ![Clamp Assembly Bottom](docs/manual/clamp_bottom_assembly.png)
+
+The main clamps (bigger top and bottom plate without rounded corners) take an electrode and will connect the side rails with the center rails.
+They are build in the same way as the normal Clamps but take additional four pieces on the sides to later hold the side rails.
 
 ![Main Clamp Assembly](docs/manual/main_clamp_assembly.png)
 
 
 ### 3D-Printed Alternatives
 
+If you 3D-printed everything the rails and halves of the clamps are already assembled and tapped.
+The orientation of the printed rails is planned to later accept screws from the right.
+If you want to change this, mirror the rails before printing.
+
 ![3D-Printed Alternatives](docs/manual/printed_alternatives.png)
 
 
 ### Electrode Mounts
 
+The electrodes are screwed to the small piece of the electrode mounts (M1.6 screw and nut).
+After screwing the electrode down, you can carefully bend the electrode shaft upwards to later fit the slider of the mount.
+
 ![Electrode Attachment](docs/manual/electrode_attachment.png)
+
+Thread the electrode wire through the slider and the spring.
+Then push the screwed down electrode in the lower end of the slider.
+There is a recess to accept the shaft of the electrode.
+To finish the mount surround the slider and the spring with the two halves of the outer screw.
+It is no problem if the halves don't stay in place on their own as they will be held together later by the screw sleeve.
+
 
 ![Electrode Mount](docs/manual/electrode_mount.png)
 
 
 ### Assemble Accessory Mounts
+The battery pack to power the BCI is mounted on a special clamp.
+It is build the same way as the normal clamps but has a peak with hole on each side.
+To mount the battery pack, it is screwed down on the 3D-printed battery mount plate (self cutting countersunk screws).
+The screws should also extend to the battery mount clamp.
+This way the plate and the clamp are joined by the screws and later by the screw sleeve from below.
 
 ![Battery Pack](docs/manual/battery_assembly.png)
+
+The Case for the BCI module consists of two parts (top and bottom).
+Place the plastic feet of the module in the recesses of the case.
+The closed Case can be crewed together with four screws from the sides (self cutting flathead screws).
 
 ![BCI Case](docs/manual/bci_case.png)
 
@@ -127,19 +163,44 @@ assamble the clamp
 
 <img src="docs/manual/head_plate.png" alt="Head Plate" width=66.25%  align="right">
 
-attach foam / fabric
+Before assembling the Helmet attach the foam or fabric to the head plates.
+
+<img width=100% height = 0>
+
+<img src="docs/manual/center_rails.png" alt="Center Rail" width=32.5%  align="left">
+
+The center rails will be build first
+There should be always two corresponding rails that are mirrored (except for the thread on one side).
+They are joined with one of the M4 screws, with a head plate between the rails.
+The next rails will follow the same way, while the screw also joins the new rails with the existing ones.
 
 <img width=100% height = 0>
 
 ![Joining Rails](docs/manual/rail_joining.png)
 
+With the center rails build, the side rails can be attached.
+For every side rail one of the main clamps is taken and clamped around the center rails.
+This happens by fixing them with a screw sleeve and a printed nut. (For the 3D-printed versions, only the nut is needed, as the screw sleeve is already attached.)
+The electrode mounts can be inserted now or later.
+
 ![Attaching Main Clamp](docs/manual/clamp_attachment_1.png)
+
+To support the side rail attachment points on the main clamps one 3D-printed spacer is inserted on each side of the clamp
+(only for the laser cut version).
 
 ![Attaching Main Clamp](docs/manual/clamp_attachment_2.png)
 
+The side rails are added by screwing them (M4 Screw) through the spacer to the main clamp.
+At the front of each side rail a head plate is attached the same way as to the center rails.
+Using the normal clamps, further electrodes can be attached to the side rails, in the same way as the main clamps to the center rails before.
+
 ![Attaching Side Rails](docs/manual/side_rail_attachment.png)
 
+Following this steps, all needed electrodes and all short and long side rails can be attached.
+
 ![Full Rail Assembly](docs/manual/final_assembling.png)
+
+After adding the BCI and Battery pack (again the same way as the other clamps), all is left to do is wiring.
 
 ### Your EasyEG Is Ready To Use!
 ![Fully Assembled EasyEG](docs/manual/easyeg_views.png)
