@@ -74,7 +74,7 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
 
 
 ### Assemble the Rails
-<img src="docs/manual/rail_explode.png" alt="Rail assembly"  align="right">
+<img src="docs/manual/rail_explode.png" alt="Rail assembly" width=32.5% align="right">
 
 To assemble a rail take the two parts of the rail and connect them with the rectangular dowels.
 They should have a good pressure fit and don't need glue.
