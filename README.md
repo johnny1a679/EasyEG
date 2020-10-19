@@ -6,7 +6,7 @@ Brain-Computer Interfaces (BCIs) are progressively adopted by the consumer marke
 
 ## Construction Manual
 
-The following steps explain how to assamble your own __EasyEG__.
+The following steps explain how to assemble your own __EasyEG__.
 You can produce the parts either by [3D-printing](3d-printer_only), or by combining [laser cutting and 3D-printing](lasercutter_and_3d-printer), if you have access to a laser cutter and an M4 tap.
 
 ### List of Materials
@@ -80,7 +80,7 @@ To assemble a rail take the two parts of the rail and connect them with the rect
 They should have a good pressure fit and don't need glue.
 
 
-Pay attention on the direction of each rail and which side should accept the screws.
+Pay attention to the direction of each rail and which side should accept the screws.
 This will later determine from which side you adjust the rails.
 
 
@@ -101,7 +101,7 @@ The smaller holes have to be tapped with an M4 tap to later accept the screws.
 
 <img src="docs/manual/clamp_top.png" alt="Clamp Top" width=32.5%  align="right">
 
-The clamps have each a upper and a lower half and will hold the electrodes.
+The clamps have each an upper and a lower half and will hold the electrodes.
 To assemble the upper half insert the concave brakes and the guiding plates in the top Plate.
 
 <img width=100% height = 0>
@@ -112,7 +112,7 @@ Again, it should be a good pressure fit.
 ![Clamp Assembly Bottom](docs/manual/clamp_bottom_assembly.png)
 
 The main clamps (bigger top and bottom plate without rounded corners) take an electrode and will connect the side rails with the center rails.
-They are build in the same way as the normal Clamps but take additional four pieces on the sides to later hold the side rails.
+They are built in the same way as the normal Clamps but take additional four pieces on the sides to later hold the side rails.
 
 ![Main Clamp Assembly](docs/manual/main_clamp_assembly.png)
 
