@@ -7,7 +7,7 @@ Brain-Computer Interfaces (BCIs) are progressively adopted by the consumer marke
 ## Construction Manual
 
 The following steps explain how to assemble your own __EasyEG__.
-You can produce the parts either by [3D-printing](3d-printer_only), or by combining [laser cutting and 3D-printing](lasercutter_and_3d-printer), if you have access to a laser cutter and an M4 tap.
+You can produce the parts either by [3D-printing](3d-printer_only) or by combining [laser cutting and 3D-printing](lasercutter_and_3d-printer) if you have access to a laser cutter and an M4 tap.
 
 ### List of Materials
 
@@ -68,8 +68,8 @@ You can produce the parts either by [3D-printing](3d-printer_only), or by combin
 - 1 screw and - M1.6 x 6mm and 1 nut M1.6 for every electrode you want to attach
 - 1 compression spring - 12mm x 35mm (thickness 0.6mm - 0.8mm) for every electrode you want to attach
 - 13 screws - M4 x 50mm for assembling the rails
-- 2 self cutting countersunk screws - 3.0 x 12mm for mounting the battery pack
-- 4 self cutting flathead screws - 3.0 x 6.5mm for closing the bci case
+- 2 self-cutting countersunk screws - 3.0 x 12mm for mounting the battery pack
+- 4 self-cutting flathead screws - 3.0 x 6.5mm for closing the BCI case
 - foam or soft fabric to cushion the head plates
 
 
@@ -145,8 +145,8 @@ It is no problem if the halves don't stay in place on their own as they will be 
 
 ### Assemble Accessory Mounts
 The battery pack to power the BCI is mounted on a special clamp.
-It is build the same way as the normal clamps but has a peak with hole on each side.
-To mount the battery pack, it is screwed down on the 3D-printed battery mount plate (self cutting countersunk screws).
+It is built the same way as the normal clamps but has a peak with a hole on each side.
+To mount the battery pack, it is screwed down on the 3D-printed battery mount plate (self-cutting countersunk screws).
 The screws should also extend to the battery mount clamp.
 This way the plate and the clamp are joined by the screws and later by the screw sleeve from below.
 
@@ -154,7 +154,7 @@ This way the plate and the clamp are joined by the screws and later by the screw
 
 The Case for the BCI module consists of two parts (top and bottom).
 Place the plastic feet of the module in the recesses of the case.
-The closed Case can be crewed together with four screws from the sides (self cutting flathead screws).
+The closed Case can be crewed together with four screws from the sides (self-cutting flathead screws).
 
 ![BCI Case](docs/manual/bci_case.png)
 
@@ -169,7 +169,7 @@ Before assembling the Helmet attach the foam or fabric to the head plates.
 
 <img src="docs/manual/center_rails.png" alt="Center Rail" width=32.5%  align="left">
 
-The center rails will be build first
+The center rails will be built first
 There should be always two corresponding rails that are mirrored (except for the thread on one side).
 They are joined with one of the M4 screws, with a head plate between the rails.
 The next rails will follow the same way, while the screw also joins the new rails with the existing ones.
@@ -179,7 +179,7 @@ The next rails will follow the same way, while the screw also joins the new rail
 ![Joining Rails](docs/manual/rail_joining.png)
 
 With the center rails build, the side rails can be attached.
-For every side rail one of the main clamps is taken and clamped around the center rails.
+For every side rail, one of the main clamps is taken and clamped around the center rails.
 This happens by fixing them with a screw sleeve and a printed nut. (For the 3D-printed versions, only the nut is needed, as the screw sleeve is already attached.)
 The electrode mounts can be inserted now or later.
 
@@ -191,16 +191,16 @@ To support the side rail attachment points on the main clamps one 3D-printed spa
 ![Attaching Main Clamp](docs/manual/clamp_attachment_2.png)
 
 The side rails are added by screwing them (M4 Screw) through the spacer to the main clamp.
-At the front of each side rail a head plate is attached the same way as to the center rails.
+At the front of each side rail, a head plate is attached the same way as to the center rails.
 Using the normal clamps, further electrodes can be attached to the side rails, in the same way as the main clamps to the center rails before.
 
 ![Attaching Side Rails](docs/manual/side_rail_attachment.png)
 
-Following this steps, all needed electrodes and all short and long side rails can be attached.
+Following these steps, all needed electrodes and all short and long side rails can be attached.
 
 ![Full Rail Assembly](docs/manual/final_assembling.png)
 
-After adding the BCI and battery pack (again the same way as the other clamps), all is left to do is wiring.
+After adding the BCI and battery pack (again the same way as the other clamps), all is left to do is the wiring.
 
 ### Your EasyEG Is Ready To Use!
 ![Fully Assembled EasyEG](docs/manual/easyeg_views.png)
