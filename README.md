@@ -20,8 +20,8 @@ You can produce the parts either by [3D-printing](3d-printer_only) or by combini
 - [Front Rail](3d-printer_only/rails/rail_front.stl) and [Front Rail Threaded](3d-printer_only/rails/rail_front_threaded.stl)
 - 2 x [Top Rail](3d-printer_only/rails/rail_top.stl) and 2 x [Top Rail Threaded](3d-printer_only/rails/rail_top_threaded.stl)
 - [Long Rail](3d-printer_only/rails/rail_long.stl) and [Long Rail Threaded](3d-printer_only/rails/rail_long_threaded.stl)
-- [Long Side Rail](3d-printer_only/rails/rail_side_long.stl) and [Long Side Rail Threaded](3d-printer_only/rails/rail_side_long_threaded.stl)
-- [Short Side Rail](3d-printer_only/rails/rail_side_short.stl) and [Short Side Rail Threaded](3d-printer_only/rails/rail_side_short_threaded.stl)
+- 2 x [Long Side Rail](3d-printer_only/rails/rail_side_long.stl) and 2 x [Long Side Rail Threaded](3d-printer_only/rails/rail_side_long_threaded.stl)
+- 2 x [Short Side Rail](3d-printer_only/rails/rail_side_short.stl) and 2 x [Short Side Rail Threaded](3d-printer_only/rails/rail_side_short_threaded.stl)
 
 <p></p>
 
