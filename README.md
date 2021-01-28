@@ -65,7 +65,7 @@ You can produce the parts either by [3D-printing](3d-printer_only) or by combini
 #### External Parts
 - [OpenBCI Ganglion Board](https://shop.openbci.com/products/ganglion-board?variant=13461804483) with battery pack
 - [Gold Cup Electrodes](https://shop.openbci.com/collections/frontpage/products/openbci-gold-cup-electrodes?variant=9056028163)
-- 1 screw and - M1.6 x 6mm and 1 nut M1.6 for every electrode you want to attach
+- 1 screw - M1.6 x 6mm and 1 nut M1.6 for every electrode you want to attach
 - 1 compression spring - 12mm x 35mm (thickness 0.6mm - 0.8mm) for every electrode you want to attach
 - 13 screws - M4 x 50mm for assembling the rails
 - 2 self-cutting countersunk screws - 3.0 x 12mm for mounting the battery pack
