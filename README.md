@@ -40,7 +40,7 @@ You can produce the parts either by [3D-printing](3d-printer_only) or by combini
 
 <p></p>
 
-- BCI-Case [Top](3d-printer_only/bci-case_top.stl) and [Bottom](3d-printer_only/mounting_accessory/bci-case_bottom.stl)
+- BCI-Case [Top](3d-printer_only/bci-case_top.stl) and [Bottom](3d-printer_only/bci-case_bottom.stl)
 
 #### Produced Parts With Laser Cutting and 3D-Printing
 
