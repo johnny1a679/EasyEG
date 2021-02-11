@@ -26,8 +26,11 @@ You can produce the parts either by [3D-printing](3d-printer_only) or by combini
 <p></p>
 
 - 2 x [Main Clamp Top](3d-printer_only/clamps/main_clamp_top.stl) and 2 x [Main Clamp Bottom](3d-printer_only/clamps/main_clamp_bottom.stl)
-- [Clamp Top](3d-printer_only/clamps/clamp_top.stl) and [Clamp Bottom](3d-printer_only/clamps/clamp_bottom.stl) each 1 per electrode on the sides + 1 for the BCI Case
-- [Battery Clamp Top](3d-printer_only/clamps/battery_clamp_top.stl) and [Battery Clamp Bottom](3d-printer_only/clamps/battery_clamp_bottom.stl)
+- 1 x [Clamp Top](3d-printer_only/clamps/clamp_top.stl) per electrode on the sides + 1 for the BCI Case
+- 1 x [Clamp Bottom](3d-printer_only/clamps/clamp_bottom.stl) per electrode on the sides
+- 2 x [Accessory Clamp Bottom](3d-printer_only/clamps/accessory_clamp_bottom.stl)
+- 1 x [Battery Clamp Top](3d-printer_only/clamps/battery_clamp_top.stl)
+- 2 x [Screw Sleeve](3d-printer_only/clamps/electrode_screwsleeve.stl)
 
 <p></p>
 
@@ -135,6 +138,7 @@ After screwing the electrode down, you can carefully bend the electrode shaft up
 
 Thread the electrode wire through the slider and the spring.
 Then push the screwed down electrode in the lower end of the slider.
+Depending on your 3D-printer and print settings this connection might stay in place by a pressure fit or otherwise needs a drip of glue to become stable.
 There is a recess to accept the shaft of the electrode.
 To finish the mount surround the slider and the spring with the two halves of the outer screw.
 It is no problem if the halves don't stay in place on their own as they will be held together later by the screw sleeve.
@@ -149,15 +153,21 @@ It is built the same way as the normal clamps but has a peak with a hole on each
 To mount the battery pack, it is screwed down on the 3D-printed battery mount plate (self-cutting countersunk screws).
 The screws should also extend to the battery mount clamp.
 This way the plate and the clamp are joined by the screws and later by the screw sleeve from below.
+(In the 3D-printed version the mount plate and the cplamp top are allready one piece.)
 
 ![Battery Pack](docs/manual/battery_assembly.png)
 
 The Case for the BCI module consists of two parts (top and bottom).
 Place the plastic feet of the module in the recesses of the case.
-The closed Case can be crewed together with four screws from the sides (self-cutting flathead screws).
+The closed Case can be screwed together with four screws from the sides (self-cutting flathead screws).
+Later the case will be fixed to one of the clamps by using one of the screw sleves.
 
 ![BCI Case](docs/manual/bci_case.png)
 
+#### 3D-Printed Versions
+For the 3D-printed only versions of the accessory mounts, you need to take the bottom accessory clamp that has no integrated screw but a hole.
+Instead of the missing integrated screw, use the two screw sleeves to hold the clamps together (similar to the laser cut versions).
+This will later ease the positioning of the battery pack and the BCI case.
 
 ### Assemble the Helmet
 
