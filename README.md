@@ -160,12 +160,12 @@ This way the plate and the clamp are joined by the screws and later by the screw
 The Case for the BCI module consists of two parts (top and bottom).
 Place the plastic feet of the module in the recesses of the case.
 The closed Case can be screwed together with four screws from the sides (self-cutting flathead screws).
-Later the case will be fixed to one of the clamps by using one of the screw sleves.
+Later the case will be fixed to one of the clamps by using one of the screw sleeves.
 
 ![BCI Case](docs/manual/bci_case.png)
 
 #### 3D-Printed Versions
-For the 3D-printed only versions of the accessory mounts, you need to take the bottom accessory clamp that has no integrated screw but a hole.
+For the 3D-printed only versions of the accessory mounts, you need to take the accessory bottom clamp that has no integrated screw but a hole.
 Instead of the missing integrated screw, use the two screw sleeves to hold the clamps together (similar to the laser cut versions).
 This will later ease the positioning of the battery pack and the BCI case.
 
@@ -182,6 +182,7 @@ Before assembling the Helmet attach the foam or fabric to the head plates.
 The center rails will be built first
 There should be always two corresponding rails that are mirrored (except for the thread on one side).
 They are joined with one of the M4 screws, with a head plate between the rails.
+Take care, that the threaded hole is allways on the outside of the joints.
 The next rails will follow the same way, while the screw also joins the new rails with the existing ones.
 
 <img width=100% height = 0>
